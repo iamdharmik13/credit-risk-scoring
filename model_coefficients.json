@@ -1,0 +1,105 @@
+{
+  "features": [
+    "age",
+    "monthly_income",
+    "years_employed",
+    "credit_score",
+    "existing_loans",
+    "loan_amount",
+    "loan_tenure_months",
+    "dti_ratio",
+    "dependents",
+    "previous_default",
+    "emp_enc",
+    "edu_enc",
+    "purp_enc",
+    "mar_enc",
+    "city_enc"
+  ],
+  "coef": [
+    0.022417340541889264,
+    -0.0748471679895059,
+    0.01104156654880668,
+    -0.38898639575728955,
+    0.1189758362832127,
+    -0.017841647170471542,
+    0.06296886552925463,
+    0.3946520350699821,
+    -0.06889982430748767,
+    0.37518272404628306,
+    0.0026113390098924136,
+    -0.04209219118790615,
+    -0.03867323175867964,
+    0.004260455028064518,
+    -0.024466342798142346
+  ],
+  "intercept": -0.15260366905611386,
+  "scaler_mean": [
+    43.0509,
+    55808.40285399999,
+    14.90487,
+    679.9669,
+    1.997,
+    1027328.8221090001,
+    89.9364,
+    0.398688,
+    2.0021,
+    0.2022,
+    1.5011,
+    1.493,
+    2.5035,
+    1.0021,
+    2.9648
+  ],
+  "scaler_scale": [
+    13.118258618810653,
+    29893.33437802527,
+    8.699663515510242,
+    88.71553079585333,
+    1.4127954558250817,
+    559782.5561535864,
+    73.20548036206033,
+    0.20241274331424886,
+    1.403957118291011,
+    0.401640585598617,
+    1.110404786553084,
+    1.1144285531159008,
+    1.7194731024357433,
+    0.8130778499012256,
+    2.0048842759620817
+  ],
+  "employment_type_classes": [
+    "Business Owner",
+    "Government Employee",
+    "Salaried",
+    "Self-Employed"
+  ],
+  "education_classes": [
+    "Doctorate",
+    "Graduate",
+    "High School",
+    "Post Graduate"
+  ],
+  "loan_purpose_classes": [
+    "Business",
+    "Education",
+    "Home",
+    "Medical",
+    "Personal",
+    "Vehicle"
+  ],
+  "marital_status_classes": [
+    "Divorced",
+    "Married",
+    "Single"
+  ],
+  "city_classes": [
+    "Ahmedabad",
+    "Bengaluru",
+    "Delhi",
+    "Jaipur",
+    "Mumbai",
+    "Pune",
+    "Surat"
+  ]
+}
