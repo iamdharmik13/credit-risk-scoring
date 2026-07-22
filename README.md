@@ -141,6 +141,6 @@ streamlit run app.py
 
 ## 📬 Contact
 
-**Dharmik Panchal** — Data Scientist  
+**Dharmik Panchal**
 📧 iamdharmik13@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/iamdharmik1334) · [GitHub](https://github.com/iamdharmik13)
